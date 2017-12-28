@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+# Build Assets in gitlab.alibaba-inc.com
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test/unit/coverage
+
+# webstorm files
+.idea/
+
+# ternjs file
+.tern-project

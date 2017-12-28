@@ -1,0 +1,8 @@
+build/*.js
+config/*.js
+
+# util js
+src/util/*.js
+!src/util/fetch.js
+!src/util/query.js
+!src/util/resize.js
