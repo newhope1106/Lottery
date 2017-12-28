@@ -3,7 +3,7 @@
 参考自:https://github.com/coffeedeveloper/turntable
 
 #### 示例
-![示例](./lottery.png)
+![](lottery.png)
 
 ## Structure
 
